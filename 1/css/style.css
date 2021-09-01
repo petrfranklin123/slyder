@@ -1,0 +1,20 @@
+body{
+    margin: 0 auto;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    width: 80px;
+    height: 20px;
+    background-color: rgba(94, 12, 12, 0.548);
+    color: cornsilk;
+}
+input{
+    background-color: rgb(212, 207, 186);
+}
+p{
+    font-size: 20px;
+    color: rgb(71, 71, 71);
+}
